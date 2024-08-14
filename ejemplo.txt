@@ -1,1 +1,3 @@
-clase de git y github
+clase de git y github.
+
+Estamos haciendo esta modificacion en git.
